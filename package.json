@@ -1,7 +1,7 @@
 {
-  "name": "pooja-travis-project",
+  "name": "rohit-node-travisci",
   "version": "1.0.0",
-  "description": "This is devops assignment",
+  "description": "for devops assignment_4",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pooh3993/pooja-travis-project.git"
+    "url": "git+https://github.com/rohitsai6/rohit-node-travisCI.git"
   },
-  "author": "Pooja",
+  "author": "Rohit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pooh3993/pooja-travis-project/issues"
+    "url": "https://github.com/rohitsai6/rohit-node-travisCI/issues"
   },
-  "homepage": "https://github.com/Pooh3993/pooja-travis-project#readme",
+  "homepage": "https://github.com/rohitsai6/rohit-node-travisCI#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
     "express": "^4.18.2"
